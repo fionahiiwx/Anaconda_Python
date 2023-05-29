@@ -1,2 +1,2 @@
-# Anaconda_Python
-Python that I have learned using Anaconda
+# Jupyter_Python
+Python that I have learned using Jupyter Notebook
